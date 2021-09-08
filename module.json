@@ -6,12 +6,6 @@
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.8.0",
     "author": "Preston",
-    "packs": [{
-        "name": "maps",
-        "label": "Awesome Battlemap Pack",
-        "path": "/packs/maps.db",
-        "entity": "Scene"
-    }],
     "scripts":[
         "scripts/charactermancer.js"
     ],
