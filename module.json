@@ -1,15 +1,14 @@
 {
     "name": "wfrp4e-charactermancer",
     "title": "WFRP4e Charactermancer",
-    "description": "This module contains 300 beautifully rendered, hand-drawn battlemaps designed for use in a virtual tabletop environment. All scenes have been pre-configured with walls and lighting and are game-ready to save you GM prep time.",
-    "version": "0.0.1",
+    "description": "This module provides a simple, guided process for creating characters using the Warhammer Fantasy Roleplaying 4th Edition ruleset.",
+    "version": "0.1.0",
     "minimumCoreVersion": "0.7.5",
     "compatibleCoreVersion": "0.8.0",
     "author": "Preston",
     "scripts":[
         "scripts/charactermancer.js"
     ],
-    "url": "https://www.patreon.com/my-awesome-patreon/",
     "manifest": "https://github.com/oIIPRESTONIIo/WFRP4e-Charactermancer/blob/main/module.json",
-    "download": "https://github.com/oIIPRESTONIIo/WFRP4e-Charactermancer/blob/main/WFRP4e-Charactermancer.zip" 
+    "download": "https://github.com/oIIPRESTONIIo/WFRP4e-Charactermancer/blob/main/WFRP4e-Charactermancer.zip"
 }
