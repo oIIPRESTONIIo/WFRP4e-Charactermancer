@@ -1,0 +1,21 @@
+{
+    "name": "WFRP4e-Charactermancer",
+    "title": "WFRP4e Charactermancer",
+    "description": "This module contains 300 beautifully rendered, hand-drawn battlemaps designed for use in a virtual tabletop environment. All scenes have been pre-configured with walls and lighting and are game-ready to save you GM prep time.",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.8.0",
+    "author": "Preston",
+    "packs": [{
+        "name": "maps",
+        "label": "Awesome Battlemap Pack",
+        "path": "/packs/maps.db",
+        "entity": "Scene"
+    }],
+    "scripts":[
+        "scripts/charactermancer.js"
+    ],
+    "url": "https://www.patreon.com/my-awesome-patreon/",
+    "manifest": "https://path.tomywebsite.com/asubfolder/my-awesome-content-pack/module.json",
+    "download": "https://path.tomywebsite.com/asubfolder/my-awesome-content-pack/my-awesome-content-pack.zip" 
+}

@@ -1,0 +1,1 @@
+new Application("wfrp4e-charactermancer", 1280, 720);
